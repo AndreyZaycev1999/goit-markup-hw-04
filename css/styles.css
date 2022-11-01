@@ -143,6 +143,7 @@ body {
 
 .header-icon {
     fill: currentColor;
+    margin-right: 10px;
 }
 
 /*Body*/
@@ -332,7 +333,7 @@ body {
 
 .team-information {
     padding-top: 30px;
-    padding-bottom: 42px;
+    padding-bottom: 30px;
 }
 
 
@@ -354,16 +355,16 @@ body {
     letter-spacing: 0.03em;
     color: #757575;
     margin: 0px;
-    margin-bottom: 28px;
+    margin-bottom: 16px;
 }
 
 
 .socials {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     list-style: none;
-    padding-left: 44px;
-    padding-right: 44px;
+    padding-left: 0px;
+    gap: 10px;
 }
 
 
@@ -401,6 +402,10 @@ body {
 .clients-page > h3 {
     margin-top: 0px;
     margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 
 
